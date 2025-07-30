@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5000"; // Flask backend
+const BASE_URL = "https://prise.onrender.com"; // Flask backend
 
 export const predictCarPrice = async (formData) => {
   try {
