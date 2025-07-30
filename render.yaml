@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: car-gold-backend
+    env: python
+    plan: free
+    region: oregon
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
+    workingDir: server
+    autoDeploy: true
