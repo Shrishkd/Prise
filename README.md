@@ -20,12 +20,12 @@ Here’s a quick look at the UI of the Prise application:
 ---
 
 ### 🚗 2. Car Prise
-![Single Review Output](assets/Car_Prise.png)
+![Car prise detect](assets/Car_Prise.png)
 
 ---
 
 ### 🪙 3. Gold Prise
-![CSV Upload Result](assets/Gold_Prise.png)
+![Gold Price](assets/Gold_Prise.png)
 
 ---
 
