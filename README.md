@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> **[Live Link (Render) Click here 👉🏻](https://prise-1.onrender.com)** 
+> **[Live Link (Render)](https://prise-1.onrender.com)** 
 
 ---
 
