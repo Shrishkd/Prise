@@ -15,17 +15,17 @@
 Here’s a quick look at the UI of the Prise application:
 
 ### 🏠 1. Home Page
-![Home Page](assets/home.png)
+![Home Page](assets/Home.png)
 
 ---
 
 ### 🚗 2. Car Prise
-![Single Review Output](assets/Car Prise.png)
+![Single Review Output](assets/Car_Prise.png)
 
 ---
 
 ### 🪙 3. Gold Prise
-![CSV Upload Result](assets/Gold Prise.png)
+![CSV Upload Result](assets/Gold_Prise.png)
 
 ---
 
