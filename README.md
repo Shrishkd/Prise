@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> **[App Link (Render)](https://prise-1.onrender.com)** *(Replace with actual deployed link when live)*
+> **[Live Link (Render) Click here 👉🏻](https://prise-1.onrender.com)** 
 
 ---
 
@@ -14,9 +14,21 @@
 
 Here’s a quick look at the UI of the Prise application:
 
-![Demo Screenshot](./backend/static/demo.png)
+### 🏠 1. Home Page
+![Home Page](assets/home.png)
 
-> *(Save a screenshot of your app as `demo.png` in the `backend/static` folder to show it here)*
+---
+
+### 🚗 2. Car Prise
+![Single Review Output](assets/Car Prise.png)
+
+---
+
+### 🪙 3. Gold Prise
+![CSV Upload Result](assets/Gold Prise.png)
+
+---
+
 
 ---
 
