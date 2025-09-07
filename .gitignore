@@ -10,7 +10,7 @@ env/
 .env
 
 #text files
-.txt
+*.txt
 
 # System Files
 .DS_Store
