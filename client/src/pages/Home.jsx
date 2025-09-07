@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import { Moon, TrendingUp, Sparkles, Car, Coins } from "lucide-react";
+import { TrendingUp, Sparkles, Car, Coins } from "lucide-react";
 
 const Home = () => {
   const navigate = useNavigate();
@@ -29,23 +29,7 @@ const Home = () => {
               AI Price Predictor
             </h1>
           </div>
-          <div className="flex items-center gap-4">
-            <button
-              onClick={() => handleNavClick("/login")}
-              className="px-4 py-2 text-purple-200 border border-purple-400/50 rounded-full hover:bg-purple-500/20 transition"
-            >
-              Login
-            </button>
-            <button
-              onClick={() => handleNavClick("/signup")}
-              className="px-4 py-2 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full shadow hover:from-purple-600 hover:to-pink-600 transition"
-            >
-              Sign Up
-            </button>
-            <button className="p-2 rounded-full hover:bg-white/10 text-purple-200 hover:text-yellow-300 transition">
-              <Moon size={20} />
-            </button>
-          </div>
+          
         </div>
       </header>
 
