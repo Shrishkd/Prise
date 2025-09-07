@@ -9,6 +9,9 @@ env/
 # Environment Variables
 .env
 
+#text files
+.txt
+
 # System Files
 .DS_Store
 Thumbs.db
